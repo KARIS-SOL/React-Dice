@@ -1,10 +1,10 @@
-import Dice from './Dice';
+import HandIcon from './HandIcon';
 
 function App() {
   return (
     <div>
-      <Dice />
-      </div>
+      <HandIcon />
+    </div>
   );
 }
 
